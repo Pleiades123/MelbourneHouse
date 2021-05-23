@@ -1,17 +1,17 @@
 # MelbourneHouse
 Melbourne house price prediction on kaggle
 
-Context
+### Context
 
 Melbourne real estate is BOOMING. Can you find the insight or predict the next big trend to become a real estate mogul… or even harder, to snap up a reasonably priced 2-bedroom unit?
 
-Content
+### Content
 
 This is a snapshot of a dataset created by Tony Pino.
 
 It was scraped from publicly available results posted every week from Domain.com.au. He cleaned it well, and now it's up to you to make data analysis magic. The dataset includes Address, Type of Real estate, Suburb, Method of Selling, Rooms, Price, Real Estate Agent, Date of Sale and distance from C.B.D.
 
-Notes on Specific Variables
+### Notes on Specific Variables
 
 Rooms: Number of rooms
 
@@ -43,12 +43,12 @@ BuildingArea: Building Size
 
 CouncilArea: Governing council for the area
 
-Acknowledgements
+### Acknowledgements
 
 This is intended as a static (unchanging) snapshot of https://www.kaggle.com/anthonypino/melbourne-housing-market. It was created in September 2017. Additionally, homes with no Price have been removed.
 
 
-More info:
+### More info:
 
 https://www.kaggle.com/dansbecker/melbourne-housing-snapshot
 
